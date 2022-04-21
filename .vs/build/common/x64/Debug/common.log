@@ -1,0 +1,33 @@
+﻿  cli.cpp
+  conf.cpp
+  core.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\core.cpp(343,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  database.cpp
+  db.cpp
+  des.cpp
+  ers.cpp
+  grfio.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\grfio.cpp(407,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  malloc.cpp
+  mapindex.cpp
+  md5calc.cpp
+  msg_conf.cpp
+  nullpo.cpp
+  random.cpp
+  showmsg.cpp
+  socket.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\socket.cpp(1699,2): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  sql.cpp
+  strlib.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1024,113): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1106,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1127,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1146,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  timer.cpp
+  utils.cpp
+  Создание кода...
+  Компиляция...
+  winapi.cpp
+  utilities.cpp
+  Создание кода...
+  common.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\.vs\build\common.lib

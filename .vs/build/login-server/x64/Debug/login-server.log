@@ -1,0 +1,13 @@
+﻿  account.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\login\account.cpp(805,11): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\login\account.cpp(819,11): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\login\account.cpp(872,11): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  ipban.cpp
+  login.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\login\login.cpp(318,40): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  loginchrif.cpp
+  loginclif.cpp
+  logincnslif.cpp
+  loginlog.cpp
+  Создание кода...
+  login-server.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\login-server.exe

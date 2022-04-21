@@ -1,0 +1,38 @@
+﻿  char.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\char.cpp(2834,102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\char.cpp(2877,102): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  char_clif.cpp
+  char_cnslif.cpp
+  char_logif.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\char_logif.cpp(194,10): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\char_logif.cpp(210,12): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  char_mapif.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\char_mapif.cpp(263,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\char_mapif.cpp(312,64): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\char_mapif.cpp(562,67): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+  inter.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(704,11): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(718,11): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(784,11): warning C4267: +=: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(1034,82): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(1313,21): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\inter.cpp(1333,24): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  int_achievement.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\int_achievement.cpp(267,67): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+  int_auction.cpp
+  int_clan.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\int_clan.cpp(60,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\int_clan.cpp(61,91): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\char\int_clan.cpp(62,96): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  int_elemental.cpp
+  int_guild.cpp
+  int_homun.cpp
+  int_mail.cpp
+  int_mercenary.cpp
+  int_party.cpp
+  int_pet.cpp
+  int_quest.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\char\int_quest.cpp(199,54): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+  int_storage.cpp
+  Создание кода...
+  char-server.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\char-server.exe

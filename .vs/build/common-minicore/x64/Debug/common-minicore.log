@@ -1,0 +1,23 @@
+﻿  cli.cpp
+  conf.cpp
+  core.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\core.cpp(343,10): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  des.cpp
+  grfio.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\grfio.cpp(407,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  malloc.cpp
+  mapindex.cpp
+  md5calc.cpp
+  msg_conf.cpp
+  nullpo.cpp
+  random.cpp
+  showmsg.cpp
+  strlib.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1024,113): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1106,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1127,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\strlib.cpp(1146,16): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  utils.cpp
+  winapi.cpp
+  Создание кода...
+  common-minicore.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\.vs\build\common-minicore.lib

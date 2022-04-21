@@ -1,0 +1,194 @@
+﻿  achievement.cpp
+  atcommand.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(1269,91): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(1271,131): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(1282,82): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(3684,63): warning C4267: =: преобразование из "size_t" в "uint32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(5591,68): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(5612,89): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(6046,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(7584,34): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(8736,35): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(8824,7): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(9567,30): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(9589,58): warning C4267: инициализация: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(9713,4): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\atcommand.cpp(11326,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  battle.cpp
+  battleground.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\battleground.cpp(566,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\battleground.cpp(578,32): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  buyingstore.cpp
+  cashshop.cpp
+  channel.cpp
+  chat.cpp
+  chrif.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\chrif.cpp(1351,65): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\chrif.cpp(1392,71): warning C4267: =: преобразование из "size_t" в "uint16"; возможна потеря данных
+  clan.cpp
+  clif.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(2204,129): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(2304,119): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(2407,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(2546,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3025,141): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3040,146): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3054,144): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3067,139): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3120,165): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3137,170): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3153,168): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3165,163): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3211,144): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(3221,139): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(4100,121): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(6297,119): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(6350,120): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(6610,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(7256,131): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(10214,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(10437,74): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(10704,28): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(11127,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(11967,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(11983,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(12000,72): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(13868,52): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(14504,46): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(14506,49): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(16205,34): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(16209,31): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(17876,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(17916,42): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(18323,45): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(18453,86): warning C4267: =: преобразование из "size_t" в "uint32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19275,96): warning C4267: аргумент: преобразование из "size_t" в "uint32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19413,30): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19423,29): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19447,121): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19500,122): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(19535,122): warning C4267: =: преобразование из "size_t" в "int16"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\clif.cpp(20930,76): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  date.cpp
+  duel.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\duel.cpp(199,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\duel.cpp(202,88): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\duel.cpp(242,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\duel.cpp(268,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\duel.cpp(293,61): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  elemental.cpp
+  guild.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\guild.cpp(1961,54): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  homunculus.cpp
+  instance.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\instance.cpp(647,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\instance.cpp(745,26): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  intif.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\intif.cpp(296,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\intif.cpp(376,27): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\intif.cpp(447,11): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\intif.cpp(471,13): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+  itemdb.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\utilities.hpp(140,1): warning C4267: аргумент: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\itemdb.cpp(1691): message : выполняется компиляция ссылки на экземпляр шаблон функции "V &rathena::util::umap_random<t_itemid,std::shared_ptr<s_item_group_entry>>(std::unordered_map<t_itemid,std::shared_ptr<s_item_group_entry>,std::hash<t_itemid>,std::equal_to<t_itemid>,std::allocator<std::pair<const t_itemid,std::shared_ptr<s_item_group_entry>>>> &)"
+          with
+          [
+              V=std::shared_ptr<s_item_group_entry>
+          ]
+C:\Users\Kirill\Desktop\server\rathena\src\common\utilities.hpp(153,1): warning C4267: аргумент: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\itemdb.cpp(3239): message : выполняется компиляция ссылки на экземпляр шаблон функции "K &rathena::util::vector_random<std::shared_ptr<s_random_opt_group_entry>>(std::vector<std::shared_ptr<s_random_opt_group_entry>,std::allocator<std::shared_ptr<s_random_opt_group_entry>>> &)"
+          with
+          [
+              K=std::shared_ptr<s_random_opt_group_entry>
+          ]
+  log.cpp
+  Создание кода...
+  Компиляция...
+  mail.cpp
+  map.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\map.cpp(4487,29): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  mapreg.cpp
+  mercenary.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\common\utilities.hpp(153,1): warning C4267: аргумент: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\mercenary.cpp(424): message : выполняется компиляция ссылки на экземпляр шаблон функции "K &rathena::util::vector_random<sc_type>(std::vector<sc_type,std::allocator<sc_type>> &)"
+          with
+          [
+              K=sc_type
+          ]
+  mob.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\mob.cpp(2818,57): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\mob.cpp(2988,58): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\mob.cpp(6351,50): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\mob.cpp(6352,65): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\utilities.hpp(140,1): warning C4267: аргумент: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\mob.cpp(506): message : выполняется компиляция ссылки на экземпляр шаблон функции "V &rathena::util::umap_random<uint16,std::shared_ptr<s_randomsummon_entry>>(std::unordered_map<uint16,std::shared_ptr<s_randomsummon_entry>,std::hash<uint16>,std::equal_to<uint16>,std::allocator<std::pair<const uint16,std::shared_ptr<s_randomsummon_entry>>>> &)"
+          with
+          [
+              V=std::shared_ptr<s_randomsummon_entry>
+          ]
+  npc.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\npc.cpp(2539,70): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\npc.cpp(2558,69): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\npc.cpp(4156,9): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\npc.cpp(5468,113): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\npc.cpp(5613,22): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  npc_chat.cpp
+  party.cpp
+  path.cpp
+  pc.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\pc.cpp(6253,59): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\pc.cpp(9024,25): warning C4244: аргумент: преобразование "intptr_t" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\pc.cpp(12356,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\pc.cpp(12376,66): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\pc.cpp(14033,67): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  pc_groups.cpp
+  pet.cpp
+  quest.cpp
+  script.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(937,21): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16503,14): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16718,27): warning C4267: =: преобразование из "size_t" в "uint32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16728,9): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16741,8): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16770,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16796,16): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16835,15): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16916,22): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(16953,10): warning C4244: =: преобразование "__int64" в "unsigned int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(17106,18): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(17170,18): warning C4267: +=: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\script.cpp(20910,94): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  searchstore.cpp
+  skill.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\skill.cpp(219,70): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\skill.cpp(7234,87): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\utilities.hpp(140,1): warning C4267: аргумент: преобразование из "size_t" в "int32"; возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\common\database.hpp(135): message : выполняется компиляция ссылки на экземпляр шаблон функции "V &rathena::util::umap_random<keytype,std::shared_ptr<datatype>>(std::unordered_map<keytype,std::shared_ptr<datatype>,std::hash<uint16>,std::equal_to<uint16>,std::allocator<std::pair<const keytype,std::shared_ptr<datatype>>>> &)"
+          with
+          [
+              V=std::shared_ptr<s_skill_abra_db>,
+              keytype=uint16,
+              datatype=s_skill_abra_db
+          ]
+C:\Users\Kirill\Desktop\server\rathena\src\common\database.hpp(130): message : во время компиляции функции-члена класс шаблон "std::shared_ptr<datatype> TypesafeYamlDatabase<uint16,datatype>::random(void)"
+          with
+          [
+              datatype=s_skill_abra_db
+          ]
+C:\Users\Kirill\Desktop\server\rathena\src\map\skill.cpp(7237): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::shared_ptr<datatype> TypesafeYamlDatabase<uint16,datatype>::random(void)"
+          with
+          [
+              datatype=s_skill_abra_db
+          ]
+C:\Users\Kirill\Desktop\server\rathena\src\map\skill.hpp(476): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "TypesafeYamlDatabase<uint16,s_skill_abra_db>"
+  status.cpp
+  storage.cpp
+  trade.cpp
+  unit.cpp
+C:\Users\Kirill\Desktop\server\rathena\src\map\unit.cpp(206,14): warning C4244: аргумент: преобразование "intptr_t" в "int", возможна потеря данных
+C:\Users\Kirill\Desktop\server\rathena\src\map\unit.cpp(684,58): warning C4244: аргумент: преобразование "intptr_t" в "int", возможна потеря данных
+  Создание кода...
+  Компиляция...
+  vending.cpp
+  Создание кода...
+  map-server.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\map-server.exe

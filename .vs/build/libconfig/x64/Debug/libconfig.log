@@ -1,0 +1,16 @@
+﻿  grammar.c
+  libconfig.c
+  scanctx.c
+  scanner.c
+scanner.c(941,3): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.l(182,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1452,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1460,1): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1417,59): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1430,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1907,43): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1945,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+scanner.c(1967,45): warning C4267: функция: преобразование из "size_t" в "int"; возможна потеря данных
+  strbuf.c
+  Создание кода...
+  libconfig.vcxproj -> C:\Users\Kirill\Desktop\server\rathena\.vs\build\libconfig.lib
